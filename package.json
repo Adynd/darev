@@ -1,0 +1,10 @@
+{
+  "name": "darev",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "~4.15",
+    "socket.io": "~2.0",
+    "file-system": "~2.2"
+  }
+  
+}
